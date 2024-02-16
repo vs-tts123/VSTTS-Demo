@@ -1,7 +1,7 @@
 
 
 
-<p>VS-TTS: Controllable Voice Stylization for Text-to-Speech with Natural Language Prompts</p>
+<p></p>
 
 ## Overview
 <p align="justify">
