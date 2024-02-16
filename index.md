@@ -47,11 +47,10 @@ table {
 }
 </style>
 <p>&nbsp;</p> 
-## 1 LibriTTS seen test set
 
-###  Attribute Control
+###  Attribute Control 1
 
-##### 1.1.1 Volume
+#####  Volume
 
 Volume-1: *A speaker is speaking **softly**: His eyes, which are hazel, are remarkably bright; he has a sight keen as a hawk's.*
 
@@ -69,7 +68,7 @@ Volume-3: *A speaker with a **vibrant** voice: His eyes, which are hazel, are re
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/vstts-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/instruct-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/style-energy-low.wav" type="audio/mpeg"></audio> </th>
@@ -90,7 +89,7 @@ Volume-3: *A speaker with a **vibrant** voice: His eyes, which are hazel, are re
 
 
 
-##### 1.1.2 Speed
+##### Speed
 
 Speed-1: *The person spoke at a **slow pace**: Spargo, much astonished at this reception, passed through an ante room into a handsomely furnished apartment full of books and pictures.*
 
@@ -108,7 +107,7 @@ Speed-3: *The person spoke at a **fast pace**: Spargo, much astonished at this r
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/vstts-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/instruct-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/style-dur-low.wav" type="audio/mpeg"></audio> </th>
@@ -130,7 +129,7 @@ src="assets/audios/libritts(seen)/speed/style-dur-high.wav" type="audio/mpeg"></
 
 
 
-##### 1.1.3 Pitch
+##### Pitch
 
 Pitch-1: *The person says with a **low-key voice**: The King of the Golden River had hardly made the extraordinary exit related in the last chapter, before Hans and Schwartz came roaring into the house very savagely drunk.*
 
@@ -148,7 +147,7 @@ Pitch-3: *The person says with a **high-key voice**: The King of the Golden Rive
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/vstts-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/instruct-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/style-pitch-low.wav" type="audio/mpeg"></audio> </th>
@@ -171,11 +170,10 @@ src="assets/audios/libritts(seen)/pitch/style-pitch-high.wav" type="audio/mpeg">
 
 <p>&nbsp;</p> 
 
-## 2 LibriTTS unseen test set
 
-###  Attribute Control
+###  Attribute Control 2
 
-##### 1.1.1 Volume
+##### Volume
 
 Volume-1: *A speaker is speaking **softly**: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
 
@@ -193,7 +191,7 @@ Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circu
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-energy-low.wav" type="audio/mpeg"></audio> </th>
@@ -214,7 +212,7 @@ Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circu
 
 
 
-##### 1.1.2 Speed
+##### Speed
 
 Speed-1: *The person spoke at a **slow pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
 
@@ -232,7 +230,7 @@ Speed-3: *The person spoke at a **fast pace**: The judge refused to admit his ev
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/vstts-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/instruct-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/style-dur-low.wav" type="audio/mpeg"></audio> </th>
@@ -254,7 +252,7 @@ src="assets/audios/libritts(unseen)/speed/style-dur-high.wav" type="audio/mpeg">
 
 
 
-##### 1.1.3 Pitch
+##### Pitch
 
 Pitch-1: *The person says with a **low-key voice**: But upon the question of labour mr Grammont was fierce, even for an American business man, and one night at a dinner party he discovered his daughter displaying what he considered an improper familiarity with socialist ideas.*
 
@@ -272,7 +270,7 @@ Pitch-3: *The person says with a **high-key voice**: But upon the question of la
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/vstts-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/instruct-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/style-pitch-low.wav" type="audio/mpeg"></audio> </th>
