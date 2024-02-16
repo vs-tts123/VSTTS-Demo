@@ -23,7 +23,8 @@ Specifically, 1) We present the baseline model for the VS-TTS task, providing de
 
 <p align="center">Figure.1 The overall architecture of VS-TTS.</p>
 
-## LibriTTS seen test set
+
+
 <script>
 function pauseOthers(ele) {
     $("audio").not(ele).each(function (index, audio) {audio.pause();});
@@ -44,19 +45,99 @@ table {
 }
 </style>
 <p>&nbsp;</p> 
-1.GRACE INVOLVES THE REMISSION OF SINS PEACE AND A HAPPY CONSCIENCE<br>
+## 1 LibriTTS unseen test set
+
+### 1.1 Attribute Control
+
+##### 1.1.1 Volume
+
+Volume-1: *A speaker is speaking **softly**: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
+
+Volume-2: *The speaker speaks  with **normal energy**: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
+
+Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
+
+```html
 <table>
     <tr>
-        <th> GT</th>
-        <th> GT Codec</th>
+        <th> Volume</th>
+        <th> VS-TTS</th>
+        <th> InstructTTS</th>
+        <th> PromptStyle</th>
+    </tr>
+    <tr>
+        <th> 1</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-energy-low" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-energy-low" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-energy-low" type="audio/mpeg"></audio> </th>
+    </tr>
+    <tr>
+        <th> 2</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-energy-normal" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-energy-normal" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-energy-normal" type="audio/mpeg"></audio> </th>
+    </tr>	
+    <tr>
+        <th> 3</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-energy-high" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-energy-high" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-energy-high" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+```
+
+##### 1.1.2 Speed
+
+Speed-1: *The person spoke at a **slow pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+Speed-2: *The person spoke at a **normal pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+Speed-3: *The person spoke at a **fast pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+<table>
+    <tr>
+        <th> Speed</th>
+        <th> VS-TTS</th>
+        <th> InstructTTS</th>
+        <th> PromptStyle</th>
+    </tr>
+    <tr>
+        <th> 1</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-dur-low" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-dur-low" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-dur-low" type="audio/mpeg"></audio> </th>
+    </tr>	
+    <tr>
+        <th> 2</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-dur-normal" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-dur-normal" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-dur-normal" type="audio/mpeg"></audio> </th>
+    </tr>	
+    <tr>
+        <th> 3</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-dur-high" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-dur-high" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source 
+src="assets/audios/libritts(unseen)/volume/style-dur-high" type="audio/mpeg"></audio> </th>
+    </tr>	
+</table>
+
+##### 1.1.3 Pitch
+
+Pitch-1: *The person spoke at a **slow pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+Pitch-2: *The person spoke at a **normal pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+Pitch-3: *The person spoke at a **fast pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+<table>
+    <tr>
         <th> YourTTS</th>
         <th> Valle</th>
         <th> MegaTTS</th>
         <th> MobileSpeech</th>
     </tr>
     <tr>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/waves/1/gtexample.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/waves/1/gtcodec.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/waves/1/yourtts.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/waves/1/valle.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/waves/1/megatts.wav" type="audio/mpeg"></audio> </th>
@@ -66,6 +147,7 @@ table {
 
 <p>&nbsp;</p> 
 2.OVER THE TRACK LINED CITY STREET THE YOUNG MEN THE GRINNING MEN PASS<br>
+
 <table>
     <tr>
         <th> GT</th>
@@ -169,7 +251,7 @@ table {
     </tr>	
 </table>
 
-## LibriTTS unseen test set
+## 2. LibriTTS unseen test set
 <p>&nbsp;</p> 
 7.A STAGE MEAL IS POPULAR BECAUSE IT PROVES TO THE AUDIENCE THAT THE ACTORS EVEN WHEN CALLED CHARLES HAWTREY OR OWEN NARES ARE REAL PEOPLE JUST LIKE YOU AND ME<br>
 <table>
@@ -275,7 +357,7 @@ table {
     </tr>	
 </table>
 
-## Emotional Speech unseen test set
+## 3. Emotional Speech unseen test set
 <p>&nbsp;</p> 
 12.THAT'S NOT MUCH OF A JOB FOR AN ATHLETE HERE I'VE BEEN TO TOWN AND BACK<br>
 <table>
