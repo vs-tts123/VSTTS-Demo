@@ -68,7 +68,7 @@ Volume-3: *A speaker with a **vibrant** voice: His eyes, which are hazel, are re
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/vstts-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/instruct-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/volume/style-energy-low.wav" type="audio/mpeg"></audio> </th>
@@ -107,7 +107,7 @@ Speed-3: *The person spoke at a **fast pace**: Spargo, much astonished at this r
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/vstts-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/instruct-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/speed/style-dur-low.wav" type="audio/mpeg"></audio> </th>
@@ -147,7 +147,7 @@ Pitch-3: *The person says with a **high-key voice**: The King of the Golden Rive
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/vstts-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/instruct-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(seen)/pitch/style-pitch-low.wav" type="audio/mpeg"></audio> </th>
@@ -191,7 +191,7 @@ Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circu
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/vstts-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/instruct-energy-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/volume/style-energy-low.wav" type="audio/mpeg"></audio> </th>
@@ -230,7 +230,7 @@ Speed-3: *The person spoke at a **fast pace**: The judge refused to admit his ev
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/vstts-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/instruct-dur-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/speed/style-dur-low.wav" type="audio/mpeg"></audio> </th>
@@ -270,7 +270,7 @@ Pitch-3: *The person says with a **high-key voice**: But upon the question of la
     </tr>
     <tr>
         <th> 1</th>
-        <th rowspan='1'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th rowspan='3'> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/audio_prompt.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/vstts-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/instruct-pitch-low.wav" type="audio/mpeg"></audio> </th>
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/libritts(unseen)/pitch/style-pitch-low.wav" type="audio/mpeg"></audio> </th>
