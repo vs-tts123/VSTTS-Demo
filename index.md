@@ -1,14 +1,4 @@
 
-
-<p></p>
-## Tips🎉🎉🎉: Mobile Product Link for MobileSpeech (It will be released on February 15th)
-<p align="justify">
-<b>MobileSpeech has been incorporated into the newly released mobile phones. MobileSpeech will serve as a component of products such as voice broadcasting, virtual digital assistants, and personalized speech synthesis, and is anticipated to be utilized by several hundred thousand users. However, due to the anonymous policy, we are currently unable to provide the relevant links to the mobile phones. Once the anonymous period concludes, we will furnish the link to the mobile product equipped with MobileSpeech.</b>
-<br>
-<br>
-</p>
-
-
 ## Overview
 <p align="justify">
 Controllable text-to-speech (TTS) aims to achieve flexible and accurate control, 
@@ -29,9 +19,9 @@ Specifically, 1) We present the baseline model for the VS-TTS task, providing de
     </tr>
 </table>
 
-<p align="center">Figure.1 The overall architecture of MobileSpeech.</p>
+<p align="center">Figure.1 The overall architecture of VS-TTS.</p>
 
-## Librispeech Test Clean
+## LibriTTS seen test set
 <script>
 function pauseOthers(ele) {
     $("audio").not(ele).each(function (index, audio) {audio.pause();});
@@ -177,6 +167,7 @@ table {
     </tr>	
 </table>
 
+## LibriTTS unseen test set
 <p>&nbsp;</p> 
 7.A STAGE MEAL IS POPULAR BECAUSE IT PROVES TO THE AUDIENCE THAT THE ACTORS EVEN WHEN CALLED CHARLES HAWTREY OR OWEN NARES ARE REAL PEOPLE JUST LIKE YOU AND ME<br>
 <table>
@@ -282,6 +273,7 @@ table {
     </tr>	
 </table>
 
+## Emotional Speech unseen test set
 <p>&nbsp;</p> 
 12.THAT'S NOT MUCH OF A JOB FOR AN ATHLETE HERE I'VE BEEN TO TOWN AND BACK<br>
 <table>
