@@ -292,5 +292,3 @@ src="assets/audios/libritts(unseen)/pitch/style-pitch-high.wav" type="audio/mpeg
 
 
 <p>&nbsp;</p> 
-
-## 3. Emotional Speech unseen test set<p>&nbsp;</p> 
