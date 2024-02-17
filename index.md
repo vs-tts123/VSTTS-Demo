@@ -334,3 +334,118 @@ Speaking slowly, the speaker had a high-pitched voice and a quiet, low-energy au
     </tr>
 </table>
 
+
+## 3. Emotional Speech Dataset test
+
+#### **sample1**
+
+Text prompt：A **amazed** speaker's energetic high pitch electrifies and enlivens the listeners.
+
+Text：To catch that bulrush root with my paw
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+        <th>InstructTTS</th>
+        <th>PromptStyle</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/audio_prompt1.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/vstts-1.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/instruct-1.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/style-1.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+#### **sample2**
+
+Text prompt：With speaker's distinctive deep voice, speaker **sadly** converses at a moderate speed and standard energy levels.
+
+Text：But the ships are very slow now and we don't get so many sailors any more.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+        <th>InstructTTS</th>
+        <th>PromptStyle</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/audio_prompt2.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/vstts-2.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/instruct-2.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/style-2.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+#### **sample3**
+
+Text prompt：With normal pitch, the **furious** speaker delivers an animated speech at a regular pace.
+
+Text：Don't ask me to carry an oily rag like that.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+        <th>InstructTTS</th>
+        <th>PromptStyle</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/audio_prompt3.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/vstts-3.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/instruct-3.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/style-3.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+#### **sample4**
+
+Text prompt：The **afraid** speaker swiftly expressed
+
+Text：Dogs are sitting by the door.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+        <th>InstructTTS</th>
+        <th>PromptStyle</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/audio_prompt4.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/vstts-4.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/instruct-4.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/style-4.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+#### **sample5**
+
+Text prompt：The speaker **gleefully** talks at a normal pace.
+
+Text：Zero four three a silver shilling is journey.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+        <th>InstructTTS</th>
+        <th>PromptStyle</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/audio_prompt5.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/vstts-5.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/instruct-5.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/style-5.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
