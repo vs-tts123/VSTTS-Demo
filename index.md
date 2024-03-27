@@ -50,6 +50,16 @@ table {
 
 **Note:** Due to promptTTS control speech style only by text descriptions, the synthesized speech has a randomly assigned speaker voice, here we have not listed corresponding results.
 
+
+
+## <font color='red'>Dataset Download</font>
+
+**LibriTTS:**  [link](https://drive.google.com/file/d/12X65o8vth7KCozGRUv9O4zzT47FPlQHs/view?usp=sharing)
+
+**Multi-corpus emotional datasets:**   [link](https://drive.google.com/file/d/1cziI9YrgwOYvRlq9XEuk59aWuzIvWUJz/view?usp=sharing)
+
+
+
 ##  1. LibriTTS seen case
 
 ### Attribure Control
