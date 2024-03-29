@@ -492,11 +492,11 @@ Speed-3: *The speaker spoke at a **fast pace**: The judge refused to admit his e
          <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/o1Z4F4e2Bw4_00003/gen_wav_8.wav" type="audio/mpeg"></audio> </th>
     </tr>
     <tr>
-        <th>KvvjDOtS2sw_00013</th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/00013.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/gen_wav_6.wav" type="audio/mpeg"></audio> </th>
-        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/gen_wav_7.wav" type="audio/mpeg"></audio> </th>
-         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/gen_wav_8.wav" type="audio/mpeg"></audio> </th>
+        <th>k2hQL9Zrokk_00002</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/k2hQL9Zrokk_00002/00002.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/k2hQL9Zrokk_00002/gen_wav_6.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/k2hQL9Zrokk_00002/gen_wav_7.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/k2hQL9Zrokk_00002/gen_wav_8.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
 
