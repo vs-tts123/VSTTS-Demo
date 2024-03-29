@@ -459,3 +459,110 @@ Text：Zero four three a silver shilling is journey.
          <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/emotion/style-5.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
+
+
+
+
+
+## Additional Example for Rebuttal
+
+### LRS3 test set
+
+#### Speed
+
+Speed-1: *The speaker spoke at a **slow pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+Speed-2: *The speaker spoke at a **normal pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+Speed-3: *The speaker spoke at a **fast pace**: The judge refused to admit his evidence, on the ground that the witness had destroyed beforehand all the confidence of the Court in what he was about to say.*
+
+<table>
+    <tr>
+        <th> LRS3 Speaker</th>
+         <th>Audio Prompt</th>
+        <th>Speed-1</th>
+        <th>Speed-2</th>
+        <th>Speed-3</th>
+    </tr>
+    <tr>
+        <th>o1Z4F4e2Bw4_00003</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/o1Z4F4e2Bw4_00003/00003.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/o1Z4F4e2Bw4_00003/gen_wav_6.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/o1Z4F4e2Bw4_00003/gen_wav_7.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/o1Z4F4e2Bw4_00003/gen_wav_8.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+    <tr>
+        <th>KvvjDOtS2sw_00013</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/00013.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/gen_wav_6.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/gen_wav_7.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/speed/KvvjDOtS2sw_00013/gen_wav_8.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+#### Pitch
+
+Pitch-1: *The speaker says with a **low-key voice**: But upon the question of labour mr Grammont was fierce, even for an American business man, and one night at a dinner party he discovered his daughter displaying what he considered an improper familiarity with socialist ideas.*
+
+Pitch-2: *The speaker says with a **normal-key voice**: But upon the question of labour mr Grammont was fierce, even for an American business man, and one night at a dinner party he discovered his daughter displaying what he considered an improper familiarity with socialist ideas.*
+
+Pitch-3: *The speaker says with a **high-key voice**: But upon the question of labour mr Grammont was fierce, even for an American business man, and one night at a dinner party he discovered his daughter displaying what he considered an improper familiarity with socialist ideas.*
+
+<table>
+    <tr>
+        <th> LRS3 Speaker</th>
+         <th>Audio Prompt</th>
+        <th>Pitch-1</th>
+        <th>Pitch-2</th>
+        <th>Pitch-3</th>
+    </tr>
+    <tr>
+        <th>GSf6nijSSdA_00004</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/GSf6nijSSdA_00004/00004.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/GSf6nijSSdA_00004/gen_wav_3.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/GSf6nijSSdA_00004/gen_wav_4.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/GSf6nijSSdA_00004/gen_wav_5.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+    <tr>
+        <th>UMhLBPPtlrY_00004</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/UMhLBPPtlrY_00004/00004.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/UMhLBPPtlrY_00004/gen_wav_3.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/UMhLBPPtlrY_00004/gen_wav_4.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/pitch/UMhLBPPtlrY_00004/gen_wav_5.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+#### Volume
+
+Volume-1: *A speaker is speaking **softly**: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
+
+Volume-2: *The speaker speaks  with **normal energy**: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
+
+Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circuitous route by which the steep incline was avoided and it was necessary for the party to make an early start.*
+
+<table>
+    <tr>
+        <th> LRS3 Speaker</th>
+         <th>Audio Prompt</th>
+        <th>Volume-1</th>
+        <th> Volume-2</th>
+        <th> Volume-3</th>
+    </tr>
+    <tr>
+        <th>jcp5vvxtEaU_00001</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/jcp5vvxtEaU_00001/00001.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/jcp5vvxtEaU_00001/gen_wav_0.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/jcp5vvxtEaU_00001/gen_wav_1.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/jcp5vvxtEaU_00001/gen_wav_2.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+     <tr>
+        <th>y6MC4iXhT6I_00001</th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/y6MC4iXhT6I_00001/00001.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/y6MC4iXhT6I_00001/gen_wav_0.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/y6MC4iXhT6I_00001/gen_wav_1.wav" type="audio/mpeg"></audio> </th>
+         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/y6MC4iXhT6I_00001/gen_wav_2.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
