@@ -464,9 +464,7 @@ Text：Zero four three a silver shilling is journey.
 
 
 
-## Additional Example for Rebuttal
-
-### LRS3 test set
+## 4.Non-reading-style speech dataset test
 
 #### Speed
 
