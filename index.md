@@ -564,3 +564,148 @@ Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circu
          <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="./assets/audios/lrs3/volume/y6MC4iXhT6I_00001/gen_wav_2.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
+
+
+
+
+
+##  <font color='red'>5.Rebuttal section</font>
+
+**sample1**
+
+Text prompt：Rapid speech with a high key characterizes speaker's conversation style.
+
+Text：She tied the unhappy dog up again, but do you think Nana ceased to bark? Bring master and missus home from the party!
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample1/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample1/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+
+**sample2**
+
+Text prompt：A amazed speaker voice, low in pitch, speaks quickly while exuding normal energy.
+
+Text：Come on my jack in the boxes!
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample2/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample2/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+
+**sample3**
+
+Text prompt：Speaking quickly and with a deep pitch, speaker sustains a normal level of vitality.
+
+Text：I ran back to the entrance compartment.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample3/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample3/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+
+**sample4**
+
+Text prompt：In speaker's conversation, the speaker utilizes a standard pitch, conversing at a moderate pace, and exuding low energy.
+
+Text：It was not the first time that I had helped him and been well paid for my help.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample4/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample4/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+
+**sample5**
+
+Text prompt：speaker's speech maintains a usual pitch as speaker mournfully talks at a regular speed with a touch of standard energy.
+
+Text：They'd never know I'd regular ran away.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample5/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample5/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+
+**sample6**
+
+Text prompt：A  speaker talks quickly in a hushed manner.
+
+Text：In the healthy marriage, this sympathetic response will soon give way to anger, which in turn may have the effect of a dash of cold water in the face of the oversensitive one, helping him or her to buck up and behave like an adult.
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample6/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample6/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
+**sample7**
+
+Text prompt：Rapid-speaking speaker in a quiet manner.
+
+Text：In the daytime she sat down once more beneath the windows of the castle, and began to card with her golden carding comb; and then all happened as it had happened before. 
+
+<table>
+    <tr>
+         <th>Audio Prompt</th>
+        <th>VS-TTS</th>
+    </tr>
+    <tr>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample7/audio_prompt.wav" type="audio/mpeg"></audio> </th>
+        <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample7/vstts.wav" type="audio/mpeg"></audio> </th>
+    </tr>
+</table>
+
+
+
