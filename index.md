@@ -48,15 +48,9 @@ table {
 </style>
 <p>&nbsp;</p> 
 
-**Note:** Due to promptTTS control speech style only by text descriptions, the synthesized speech has a randomly assigned speaker voice, here we have not listed corresponding results.
+**Note:** Due to promptTTS2 control speech style only by text descriptions, the synthesized speech has a randomly assigned speaker voice, here we have not listed corresponding results.
 
 
-
-## <font color='red'>Dataset Download</font>
-
-**LibriTTS:**  [link](https://drive.google.com/file/d/12X65o8vth7KCozGRUv9O4zzT47FPlQHs/view?usp=sharing)
-
-**Multi-corpus emotional datasets:**   [link](https://drive.google.com/file/d/1cziI9YrgwOYvRlq9XEuk59aWuzIvWUJz/view?usp=sharing)
 
 
 
@@ -569,7 +563,7 @@ Volume-3: *A speaker with a **vibrant** voice: It was a long ride over the circu
 
 
 
-##  <font color='red'>5.Rebuttal section</font>
+##  5.More samples
 
 **sample1**
 
@@ -706,6 +700,5 @@ Text：In the daytime she sat down once more beneath the windows of the castle, 
         <th> <audio controls id="player" onplay="pauseOthers(this);"><source src="assets/audios/rebuttal/sample7/vstts.wav" type="audio/mpeg"></audio> </th>
     </tr>
 </table>
-
 
 
